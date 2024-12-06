@@ -27,12 +27,24 @@ For more information consult the UNC [Thesis and Dissertation Guide](https://gra
 
 ### How to: table of contents and list of figures
 
-Add both the Table of contents (TOC) and a list of figures (with titles and page numbers) requires some specific formatting. For example, you need to use the Word headings options to automate the creation of a TOC.
+Adding both the Table of contents (TOC) and a list of figures (with titles and page numbers) requires some specific formatting. For example, you need to use the Word headings options to automate the creation of a TOC.
 
 Refer to the [Dissertation formatting workshop](https://www.youtube.com/watch?v=xO_zU3neado&ab_channel=UNC-ChapelHillGraduateSchool) video to learn how to properly use the included template to create a table of contents and list of figures.
 
-## Abbrev and symbols template:
+## Abbrev and symbols template
 
-The graduate School requires that you include a table that defines the abbreviation and symbols contained in your dissertation.
+The Grad School requires that you include a table that defines the abbreviation and symbols contained in your dissertation.
 
 The included template is designed to help you quickly generate definitions for common Chemistry abbrev and symbols. 
+
+### Example abbrev and symbols table:
+
+| Abbrev/symbol | Definition            |
+| ------------- | --------------------- |
+| ±             | plus/minus            |
+| °             | degree                |
+| g             | gram                  |
+| K             | Kelvin                |
+| µm            | micrometer            |
+| µM            | micromolar            |
+| DMF           | N-N-dimethylformamide |
