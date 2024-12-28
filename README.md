@@ -11,19 +11,19 @@ For more information consult the UNC [Thesis and Dissertation Guide](https://gra
 
 ### Sections included in the template:
 
-| Section                                        | Required      |
-| ---------------------------------------------- | ------------- |
-| Title Page                                     | Required      |
-| Copyright Page                                 | Required      |
-| Abstract                                       | Required      |
-| Dedication                                     | Optional      |
-| Acknowledgements                               | Optional      |
-| Preface                                        | Optional      |
-| Table of Contents (with page numbers)          | Required      |
-| List of Figures (with titles and page numbers) | If applicable |
-| List of Abbreviations and Symbols              | If applicable |
-| Chapters                                       | Required      |
-| References                                     | Required      |
+| Section                                        | Required by graduate school     |
+| ---------------------------------------------- | ------------------------------- |
+| Title Page                                     | Required                        |
+| Copyright Page                                 | Required                        |
+| Abstract                                       | Required                        |
+| Dedication                                     | Optional                        |
+| Acknowledgements                               | Optional                        |
+| Preface                                        | Optional                        |
+| Table of Contents (with page numbers)          | Required                        |
+| List of Figures (with titles and page numbers) | If applicable                   |
+| List of Abbreviations and Symbols              | If applicable                   |
+| Chapters                                       | Required                        |
+| References                                     | Required                        |
 
 ### How to: table of contents and list of figures
 
